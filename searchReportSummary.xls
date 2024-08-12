@@ -1,0 +1,475 @@
+Level: missionImpossible	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		35.0	128	10	338	21
+Uniform cost search		35.0	127	11	338	7
+Depth first search		44.0	73	24	193	8
+Iterative deepening search		35.0	123103	24	246280	786
+Greedy best first search
+	Amount of enemies blocked	37.0	100	30	326	2
+	Closest enemy blocked	44.0	98	27	323	2
+	Hero distance to exit & enemy	37.0	90	31	300	1
+	Hero distance to exit	37.0	84	33	282	2
+A* search
+	Amount of enemies blocked	35.0	103	31	335	3
+	Closest enemy blocked	35.0	100	30	326	2
+	Hero distance to exit & enemy	35.0	102	30	333	3
+	Hero distance to exit	37.0	89	33	294	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel1	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		11.0	64	12	172	1
+Uniform cost search		11.0	67	12	183	4
+Depth first search		13.0	220	23	338	2
+Iterative deepening search		11.0	3228	15	6612	50
+Greedy best first search
+	Amount of enemies blocked	14.0	31	18	116	0
+	Closest enemy blocked	12.0	44	26	162	1
+	Hero distance to exit & enemy	11.0	13	23	50	0
+	Hero distance to exit	11.0	17	29	66	0
+A* search
+	Amount of enemies blocked	11.0	47	26	172	3
+	Closest enemy blocked	11.0	44	24	161	2
+	Hero distance to exit & enemy	11.0	47	25	172	1
+	Hero distance to exit	11.0	17	29	66	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel10	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		38.0	165	10	423	6
+Uniform cost search		38.0	167	11	430	3
+Depth first search		53.0	187	24	348	1
+Iterative deepening search		38.0	128840	24	221213	608
+Greedy best first search
+	Amount of enemies blocked	38.0	119	46	404	1
+	Closest enemy blocked	40.0	100	52	350	1
+	Hero distance to exit & enemy	38.0	94	52	326	1
+	Hero distance to exit	38.0	105	53	355	3
+A* search
+	Amount of enemies blocked	38.0	123	48	420	1
+	Closest enemy blocked	38.0	123	48	420	1
+	Hero distance to exit & enemy	38.0	123	48	420	1
+	Hero distance to exit	38.0	102	54	347	4
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel11	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		16.0	522	68	1199	24
+Uniform cost search		16.0	522	66	1206	36
+Depth first search		26.0	41	21	116	0
+Iterative deepening search		16.0	106403	22	188564	618
+Greedy best first search
+	Amount of enemies blocked	17.0	80	43	247	1
+	Closest enemy blocked	18.0	266	99	812	3
+	Hero distance to exit & enemy	20.0	237	54	764	3
+	Hero distance to exit	19.0	326	89	1019	6
+A* search
+	Amount of enemies blocked	16.0	385	145	1179	9
+	Closest enemy blocked	16.0	378	147	1159	28
+	Hero distance to exit & enemy	16.0	379	148	1163	15
+	Hero distance to exit	16.0	327	121	1025	6
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel12	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		29.0	255	38	580	4
+Uniform cost search		29.0	256	36	582	3
+Depth first search		36.0	2301	28	3804	32
+Iterative deepening search		29.0	464429	27	812924	1472
+Greedy best first search
+	Amount of enemies blocked	33.0	163	83	542	2
+	Closest enemy blocked	35.0	169	84	560	5
+	Hero distance to exit & enemy	29.0	155	85	518	2
+	Hero distance to exit	29.0	152	91	510	1
+A* search
+	Amount of enemies blocked	29.0	173	86	573	8
+	Closest enemy blocked	29.0	172	85	570	2
+	Hero distance to exit & enemy	29.0	173	86	574	2
+	Hero distance to exit	29.0	155	88	516	2
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel13	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		33.0	107	8	283	1
+Uniform cost search		33.0	108	9	286	1
+Depth first search		39.0	86	19	211	0
+Iterative deepening search		33.0	7384	16	17876	65
+Greedy best first search
+	Amount of enemies blocked	33.0	89	21	285	0
+	Closest enemy blocked	33.0	87	22	280	1
+	Hero distance to exit & enemy	33.0	80	27	259	0
+	Hero distance to exit	33.0	70	23	227	0
+A* search
+	Amount of enemies blocked	33.0	87	22	280	1
+	Closest enemy blocked	33.0	87	22	280	1
+	Hero distance to exit & enemy	33.0	87	22	280	1
+	Hero distance to exit	33.0	82	24	267	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel14	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		34.0	325	22	712	3
+Uniform cost search		34.0	324	26	709	3
+Depth first search		37.0	229	24	459	3
+Iterative deepening search		34.0	150418	26	230670	486
+Greedy best first search
+	Amount of enemies blocked	34.0	183	64	556	2
+	Closest enemy blocked	34.0	211	86	630	6
+	Hero distance to exit & enemy	34.0	146	64	448	2
+	Hero distance to exit	34.0	119	63	377	1
+A* search
+	Amount of enemies blocked	34.0	239	89	709	3
+	Closest enemy blocked	34.0	239	89	709	3
+	Hero distance to exit & enemy	34.0	238	91	707	3
+	Hero distance to exit	34.0	222	94	663	6
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel15	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		39.0	462	39	1081	20
+Uniform cost search		39.0	462	38	1081	5
+Depth first search		40.0	37692939	56	53897403	126667
+Iterative deepening search		39.0	148911849	40	207085351	666221
+Greedy best first search
+	Amount of enemies blocked	45.0	335	130	1078	15
+	Closest enemy blocked	39.0	297	130	966	12
+	Hero distance to exit & enemy	39.0	335	128	1078	12
+	Hero distance to exit	39.0	280	131	931	11
+A* search
+	Amount of enemies blocked	39.0	336	129	1081	11
+	Closest enemy blocked	39.0	336	129	1081	15
+	Hero distance to exit & enemy	39.0	336	129	1081	5
+	Hero distance to exit	39.0	331	131	1065	13
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel16	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		36.0	323	33	762	4
+Uniform cost search		36.0	321	36	755	10
+Depth first search		41.0	156	22	310	3
+Iterative deepening search		36.0	318731	23	665659	1437
+Greedy best first search
+	Amount of enemies blocked	36.0	231	92	739	15
+	Closest enemy blocked	39.0	234	90	748	4
+	Hero distance to exit & enemy	36.0	213	90	682	4
+	Hero distance to exit	36.0	191	71	620	9
+A* search
+	Amount of enemies blocked	36.0	234	92	748	8
+	Closest enemy blocked	36.0	234	90	748	3
+	Hero distance to exit & enemy	36.0	236	92	755	7
+	Hero distance to exit	36.0	220	92	704	3
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel17	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		37.0	619	49	1528	5
+Uniform cost search		37.0	618	52	1525	14
+Depth first search		39.0	33415656	46	55776246	113624
+Iterative deepening search		37.0	154770039	44	231937249	507204
+Greedy best first search
+	Amount of enemies blocked	37.0	376	156	1237	3
+	Closest enemy blocked	37.0	348	151	1138	3
+	Hero distance to exit & enemy	37.0	395	167	1277	8
+	Hero distance to exit	39.0	378	188	1242	9
+A* search
+	Amount of enemies blocked	37.0	456	163	1495	10
+	Closest enemy blocked	37.0	455	161	1488	5
+	Hero distance to exit & enemy	37.0	452	165	1477	9
+	Hero distance to exit	39.0	419	166	1360	5
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel18	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		36.0	316	33	743	6
+Uniform cost search		36.0	317	34	746	4
+Depth first search		47.0	117	28	256	1
+Iterative deepening search		36.0	199119	26	406878	907
+Greedy best first search
+	Amount of enemies blocked	41.0	227	89	727	3
+	Closest enemy blocked	39.0	229	89	732	2
+	Hero distance to exit & enemy	36.0	210	93	676	2
+	Hero distance to exit	36.0	210	86	674	2
+A* search
+	Amount of enemies blocked	36.0	229	91	732	2
+	Closest enemy blocked	36.0	229	89	732	4
+	Hero distance to exit & enemy	36.0	232	90	743	3
+	Hero distance to exit	36.0	215	91	690	5
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel19	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		37.0	201	13	551	2
+Uniform cost search		37.0	201	15	551	1
+Depth first search		49.0	125	17	357	2
+Iterative deepening search		37.0	21176	18	54586	156
+Greedy best first search
+	Amount of enemies blocked	37.0	172	30	519	1
+	Closest enemy blocked	37.0	184	22	551	1
+	Hero distance to exit & enemy	46.0	67	20	212	2
+	Hero distance to exit	37.0	145	41	455	3
+A* search
+	Amount of enemies blocked	37.0	184	23	551	2
+	Closest enemy blocked	37.0	184	23	551	1
+	Hero distance to exit & enemy	37.0	184	23	551	2
+	Hero distance to exit	37.0	183	28	549	5
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel2	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		10.0	35	11	71	0
+Uniform cost search		10.0	35	11	71	0
+Depth first search		10.0	26	9	50	0
+Iterative deepening search		10.0	602	9	789	3
+Greedy best first search
+	Amount of enemies blocked	10.0	20	17	68	0
+	Closest enemy blocked	10.0	20	17	68	0
+	Hero distance to exit & enemy	10.0	18	16	62	0
+	Hero distance to exit	10.0	16	16	56	0
+A* search
+	Amount of enemies blocked	10.0	21	17	71	0
+	Closest enemy blocked	10.0	20	17	68	0
+	Hero distance to exit & enemy	10.0	21	17	71	0
+	Hero distance to exit	10.0	17	16	59	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel20	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		32.0	68	5	179	0
+Uniform cost search		32.0	67	5	177	0
+Depth first search		32.0	50	20	138	0
+Iterative deepening search		32.0	3014	18	6935	17
+Greedy best first search
+	Amount of enemies blocked	32.0	63	15	195	1
+	Closest enemy blocked	32.0	56	14	174	0
+	Hero distance to exit & enemy	32.0	52	16	162	0
+	Hero distance to exit	32.0	45	15	139	0
+A* search
+	Amount of enemies blocked	32.0	57	13	177	1
+	Closest enemy blocked	32.0	56	14	174	0
+	Hero distance to exit & enemy	32.0	57	13	177	0
+	Hero distance to exit	32.0	46	14	142	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel21_v2	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		16.0	496	62	1080	7
+Uniform cost search		16.0	460	57	989	4
+Depth first search		47.0	1634	34	2539	13
+Iterative deepening search		16.0	416879	31	707647	1132
+Greedy best first search
+	Amount of enemies blocked	18.0	197	86	608	3
+	Closest enemy blocked	26.0	349	171	1049	6
+	Hero distance to exit & enemy	16.0	206	143	637	3
+	Hero distance to exit	28.0	267	135	809	2
+A* search
+	Amount of enemies blocked	16.0	329	172	987	6
+	Closest enemy blocked	16.0	307	170	931	3
+	Hero distance to exit & enemy	16.0	320	178	974	3
+	Hero distance to exit	16.0	233	124	710	6
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel22	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		39.0	251	12	655	2
+Uniform cost search		39.0	248	14	647	1
+Depth first search		43.0	71	19	196	1
+Iterative deepening search		39.0	55273	20	131996	292
+Greedy best first search
+	Amount of enemies blocked	47.0	200	44	618	4
+	Closest enemy blocked	39.0	210	42	645	2
+	Hero distance to exit & enemy	41.0	93	33	291	1
+	Hero distance to exit	39.0	74	33	237	1
+A* search
+	Amount of enemies blocked	39.0	208	42	641	2
+	Closest enemy blocked	39.0	208	42	641	2
+	Hero distance to exit & enemy	39.0	207	43	638	2
+	Hero distance to exit	39.0	187	42	582	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel3	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		36.0	82	6	229	0
+Uniform cost search		36.0	82	6	229	0
+Depth first search		36.0	63	15	181	0
+Iterative deepening search		36.0	13387	15	34609	71
+Greedy best first search
+	Amount of enemies blocked	36.0	69	14	226	1
+	Closest enemy blocked	36.0	69	16	226	1
+	Hero distance to exit & enemy	36.0	60	16	199	1
+	Hero distance to exit	36.0	62	16	202	0
+A* search
+	Amount of enemies blocked	36.0	70	14	229	1
+	Closest enemy blocked	36.0	69	14	226	1
+	Hero distance to exit & enemy	36.0	70	14	229	1
+	Hero distance to exit	36.0	62	16	202	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel4	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		34.0	285	29	859	2
+Uniform cost search		34.0	282	31	850	2
+Depth first search		42.0	32197	46	54338	210
+Iterative deepening search		34.0	334331942	50	468358723	1286662
+Greedy best first search
+	Amount of enemies blocked	39.0	145	62	487	1
+	Closest enemy blocked	37.0	145	71	501	1
+	Hero distance to exit & enemy	37.0	149	71	507	1
+	Hero distance to exit	36.0	170	60	595	1
+A* search
+	Amount of enemies blocked	34.0	250	52	848	3
+	Closest enemy blocked	34.0	245	51	833	2
+	Hero distance to exit & enemy	34.0	250	51	848	4
+	Hero distance to exit	34.0	190	58	665	2
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel5	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		36.0	117	10	306	0
+Uniform cost search		36.0	113	11	291	0
+Depth first search		37.0	102	21	215	0
+Iterative deepening search		36.0	25844	23	46074	99
+Greedy best first search
+	Amount of enemies blocked	36.0	90	28	288	1
+	Closest enemy blocked	36.0	83	27	266	0
+	Hero distance to exit & enemy	36.0	88	27	281	1
+	Hero distance to exit	37.0	87	28	278	0
+A* search
+	Amount of enemies blocked	36.0	91	28	291	2
+	Closest enemy blocked	36.0	89	26	284	1
+	Hero distance to exit & enemy	36.0	91	28	291	2
+	Hero distance to exit	36.0	87	28	278	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel6	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		34.0	157	13	415	1
+Uniform cost search		34.0	153	13	400	1
+Depth first search		38.0	79	16	214	0
+Iterative deepening search		34.0	26489	17	54276	228
+Greedy best first search
+	Amount of enemies blocked	34.0	95	32	306	1
+	Closest enemy blocked	37.0	111	33	358	1
+	Hero distance to exit & enemy	41.0	84	32	275	0
+	Hero distance to exit	34.0	84	31	274	0
+A* search
+	Amount of enemies blocked	34.0	122	35	390	1
+	Closest enemy blocked	34.0	123	35	393	1
+	Hero distance to exit & enemy	34.0	123	36	393	2
+	Hero distance to exit	34.0	88	30	286	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel7	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		19.0	392	53	882	1
+Uniform cost search		19.0	395	52	886	2
+Depth first search		23.0	53	28	118	0
+Iterative deepening search		19.0	1272955	33	1945792	4041
+Greedy best first search
+	Amount of enemies blocked	27.0	164	116	588	1
+	Closest enemy blocked	24.0	145	104	506	4
+	Hero distance to exit & enemy	19.0	93	80	325	1
+	Hero distance to exit	20.0	81	80	284	1
+A* search
+	Amount of enemies blocked	19.0	241	137	833	3
+	Closest enemy blocked	19.0	252	144	870	9
+	Hero distance to exit & enemy	19.0	220	136	767	5
+	Hero distance to exit	19.0	185	132	651	3
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel8	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		33.0	103	9	301	0
+Uniform cost search		33.0	103	10	301	2
+Depth first search		34.0	70	19	181	0
+Iterative deepening search		33.0	379588	24	848597	1858
+Greedy best first search
+	Amount of enemies blocked	33.0	88	19	299	1
+	Closest enemy blocked	33.0	82	14	281	1
+	Hero distance to exit & enemy	35.0	76	18	264	2
+	Hero distance to exit	35.0	59	25	206	0
+A* search
+	Amount of enemies blocked	33.0	89	16	301	2
+	Closest enemy blocked	33.0	89	16	301	1
+	Hero distance to exit & enemy	33.0	88	17	299	2
+	Hero distance to exit	33.0	82	19	283	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel9	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		37.0	213	21	566	2
+Uniform cost search		37.0	215	20	572	1
+Depth first search		48.0	117	29	274	1
+Iterative deepening search		37.0	87608	26	182313	461
+Greedy best first search
+	Amount of enemies blocked	37.0	155	46	509	1
+	Closest enemy blocked	37.0	142	40	469	1
+	Hero distance to exit & enemy	37.0	147	40	480	3
+	Hero distance to exit	37.0	147	38	480	1
+A* search
+	Amount of enemies blocked	37.0	174	47	566	7
+	Closest enemy blocked	37.0	173	46	563	2
+	Hero distance to exit & enemy	37.0	174	46	566	3
+	Hero distance to exit	37.0	147	39	480	1
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel_so_com_heroi	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		8.0	36	10	158	0
+Uniform cost search		8.0	36	9	158	0
+Depth first search		18.0	23	15	97	0
+Iterative deepening search		8.0	1386	11	3140	9
+Greedy best first search
+	Amount of enemies blocked	8.0	14	10	64	0
+	Closest enemy blocked	8.0	14	10	64	0
+	Hero distance to exit & enemy	8.0	8	13	37	0
+	Hero distance to exit	8.0	8	13	37	0
+A* search
+	Amount of enemies blocked	8.0	36	9	158	0
+	Closest enemy blocked	8.0	36	9	158	0
+	Hero distance to exit & enemy	8.0	8	13	37	0
+	Hero distance to exit	8.0	8	13	37	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
+Level: nivel_so_com_heroi_e_paredes	Heuristic	Cost	Num exp. nodes	Max frontier size	Num gen. states	Time(ms)
+Breadth first search		24.0	35	4	120	0
+Uniform cost search		24.0	33	4	114	0
+Depth first search		24.0	28	9	96	0
+Iterative deepening search		24.0	1691	9	4624	25
+Greedy best first search
+	Amount of enemies blocked	24.0	32	4	111	0
+	Closest enemy blocked	24.0	32	4	111	0
+	Hero distance to exit & enemy	24.0	27	8	95	0
+	Hero distance to exit	24.0	27	8	95	0
+A* search
+	Amount of enemies blocked	24.0	33	4	114	0
+	Closest enemy blocked	24.0	33	4	114	0
+	Hero distance to exit & enemy	24.0	27	8	95	0
+	Hero distance to exit	24.0	27	8	95	0
+IDA* search		NoSolutionFound	0	0	1	0
+
+########################	###########################	################	###############	###############	##############	##########
+
